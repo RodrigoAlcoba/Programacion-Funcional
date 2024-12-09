@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion Funcional.iml" filepath="$PROJECT_DIR$/.idea/Programacion Funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TareaProgramacionFuncionalApiStream/TareaProgramacionFuncionalApiStream.iml" filepath="$PROJECT_DIR$/TareaProgramacionFuncionalApiStream/TareaProgramacionFuncionalApiStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_stream/api_stream.iml" filepath="$PROJECT_DIR$/api_stream/api_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_optional/clase_optional.iml" filepath="$PROJECT_DIR$/clase_optional/clase_optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursividad/recursividad.iml" filepath="$PROJECT_DIR$/recursividad/recursividad.iml" />
+    </modules>
+  </component>
+</project>
